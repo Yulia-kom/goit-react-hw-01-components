@@ -1,0 +1,29 @@
+.transactionHistory {
+  display: table;
+  flex-direction: column;
+  flex-basis: 100px;
+  flex-grow: 1;
+  width: 600px;
+  align-items: center;
+  margin: 25px auto 50px;
+  box-shadow: 0 1px 4px #000, -23px 0 20px -23px rgb(0 0 0 / 80%),
+    23px 0 20px -23px rgb(0 0 0 / 80%), inset 0 0 40px rgb(0 0 0 / 10%);
+}
+
+th {
+  background-color: rgb(35, 158, 230);
+  padding: 5px;
+}
+
+td {
+  padding: 5px;
+  text-align: center;
+}
+
+tr:nth-child(odd) {
+  background-color: #ffffff;
+}
+
+tr:nth-child(even) {
+  background-color: #a4cfe7;
+}
