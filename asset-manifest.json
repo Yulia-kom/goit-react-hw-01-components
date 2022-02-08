@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Yulia-kom/goit-react-hw-01-components/static/css/main.14388a09.css",
+    "main.js": "/Yulia-kom/goit-react-hw-01-components/static/js/main.056da4dc.js",
+    "index.html": "/Yulia-kom/goit-react-hw-01-components/index.html",
+    "main.14388a09.css.map": "/Yulia-kom/goit-react-hw-01-components/static/css/main.14388a09.css.map",
+    "main.056da4dc.js.map": "/Yulia-kom/goit-react-hw-01-components/static/js/main.056da4dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14388a09.css",
+    "static/js/main.056da4dc.js"
+  ]
+}
